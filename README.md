@@ -192,15 +192,15 @@ Manage bot data and logs easily with these npm scripts:
 
 ```bash
 # Clear all log files
-npm run clear-logs
+npm run reset-log
 
 # Clear data.json (reset account data)
-npm run clear-data
+npm run reset-data
 
-# Clear both logs and data
-npm run clear-all
+# View log process
+npm run watch-log
 
-# Validate config.js syntax
+# Validate accounts.txt and proxies.txt data
 npm run check-config
 ```
 

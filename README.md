@@ -201,7 +201,7 @@ npm run clear-data
 npm run clear-all
 
 # Validate config.js syntax
-npm run validate-config
+npm run check-config
 ```
 
 ## 📝 Notes
@@ -215,8 +215,7 @@ npm run validate-config
 
 ## 🤝 Contribution
 
-Feel free to open pull requests, report bugs, or suggest features. Contributions are always welcome\!  
-Need source code? Feel free to ask in [NoDrops Telegram Group](https://t.me/NoDropsChat).
+Feel free to open pull requests, report bugs, or suggest features. Contributions are always welcome!
 
 ## 🛡️ Disclaimer
 

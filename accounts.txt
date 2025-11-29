@@ -1,0 +1,2 @@
+{"twitter_id":"your_twitter_id_1","handle":"username1","auth_id":"your_auth_token_1"}
+{"twitter_id":"your_twitter_id_2","handle":"username2","auth_id":"your_auth_token_2"}

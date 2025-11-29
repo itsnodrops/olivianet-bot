@@ -1,0 +1,38 @@
+{
+  "name": "olivianet-bot",
+  "version": "1.0.0",
+  "description": "Automated bot for Olivia Network",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "reset-log": "node app.js --reset-log",
+    "reset-data": "node app.js --reset-data",
+    "watch-log": "node app.js --watch-log",
+    "check-config": "node app.js --check-config",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "olivia",
+    "network",
+    "bot",
+    "automation"
+  ],
+  "author": "itsnodrops",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "figlet": "^1.9.4",
+    "https-proxy-agent": "^7.0.2",
+    "socks-proxy-agent": "^8.0.5",
+    "user-agents": "^1.1.669"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsnodrops/olivianet-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/itsnodrops/olivianet-bot/issues"
+  },
+  "homepage": "https://github.com/itsnodrops/olivianet-bot#readme"
+}
